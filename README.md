@@ -1,4 +1,5 @@
 # Collins Aerospace IT Audit Project
+
 ## Post-Incident Information Security Assessment
 
 **Academic Project | Illinois Institute of Technology**  
@@ -92,11 +93,13 @@ This repository represents the culmination of a comprehensive semester of IT aud
 
 ### Course Deliverables Timeline
 
-**September 17, 2025:** [Assignment 1 - Ethics & COBIT Enhancement](assignments/assignment-01-ethics/) (100 points)
+**September 17, 2025:** [Assignment 1 - Ethics & COBIT Enhancement](assignments/assignment-01-ethics/)
+
 - **Part 1:** Arthur Andersen ethical analysis (650 words) - ISACA/AICPA code violations, independence failures
 - **Part 2:** COBIT 2019 AI enhancement (2,621 words) - 10 objectives across 5 domains, AI governance frameworks
 
-**September 29, 2025:** [Assignment 2 - NIST Risk Assessment](assignments/assignment-02-risk-assessment/) (100 points)  
+**September 29, 2025:** [Assignment 2 - NIST Risk Assessment](assignments/assignment-02-risk-assessment/)
+
 - University Banner Finance System comprehensive risk assessment (30-page PDF)
 - NIST SP 800-30 three-tier methodology - 18 risks identified (HIGH rating)
 - 8 complete NIST tables - threat sources, vulnerabilities, impacts, risk scenarios
