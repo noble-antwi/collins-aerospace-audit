@@ -102,9 +102,9 @@ This repository represents the culmination of a comprehensive semester of IT aud
 - 8 complete NIST tables - threat sources, vulnerabilities, impacts, risk scenarios
 
 **November 4, 2025:** [Assignment 3 - BC/DR Presentation](assignments/assignment-03-disaster-recovery/) (100 points)
-- CrowdStrike global outage case study (49-slide presentation + delivery)
-- 8.5M systems, $5.4B impact, fastest-spreading incident in history
-- **Prescient timing:** 5 weeks before Collins audit revealing identical vulnerabilities
+- Business Continuity and Disaster Recovery best practices presentation (49 slides)
+- Real-world disaster analysis and lessons learned
+- Industry standards and IT audit guidance for BC/DR programs
 
 **November 2025:** **Final Project - Collins Aerospace Comprehensive Audit** (200 points)
 - Post-ransomware incident audit (September 2024 attack)
@@ -119,7 +119,7 @@ Throughout the semester, [12+ weekly discussions](discussions/) (3,600+ words, 5
 - **Week 4:** Enterprise Risk Management terminology and cyber insurance adoption
 - **Week 5:** IT audit integration in SDLC - "part art and part science"
 - **Week 7:** Service management tools and problem management processes
-- **Week 8:** CrowdStrike incident analysis (October) → Informed Collins audit (November)
+- **Week 8:** CrowdStrike incident analysis (October) - Configuration management lessons
 - **Week 9:** Disaster recovery planning - 8 DRP components, RTO/RPO concepts
 - **Week 10:** ICS/OT security - Physical consequences, IEC 62443 standards
 - **Week 11:** FBI threat landscape - Infrastructure targeting, audit tools
@@ -130,13 +130,13 @@ Throughout the semester, [12+ weekly discussions](discussions/) (3,600+ words, 5
 
 ```
 ETHICS & GOVERNANCE (Assignment 1)
-↓ Established principles of auditor independence and AI governance
+↓ Established principles of auditor independence and framework enhancement
 RISK ASSESSMENT SKILLS (Assignment 2)  
 ↓ Developed NIST-based threat modeling and risk quantification
-BC/DR PLANNING (Assignment 3)
-↓ Analyzed real-world disaster response and recovery failures
+BC/DR ANALYSIS (Assignment 3)
+↓ Examined disaster response and recovery planning best practices
 COMPREHENSIVE AUDIT (Final Project)
-↓ Synthesized all learning into professional post-incident assessment
+↓ Applied all concepts to real-world post-incident assessment
 ```
 
 ### Direct Application - Theory to Practice
@@ -148,18 +148,7 @@ COMPREHENSIVE AUDIT (Final Project)
 | **Week 11 Discussion:** FBI threats, audit tools | **Audit Planning:** Threat modeling, tool selection |
 | **Week 13 Discussion:** Social engineering, MFA | **Finding #1:** MFA implementation weaknesses |
 | **Assignment 2:** NIST SP 800-30 methodology | **Audit Memo:** Three-tier risk assessment framework |
-| **Assignment 3:** RTO/RPO testing requirements | **Finding #4:** Recovery capabilities never tested |
-
-### Prescient Analysis Validation
-
-The **Assignment 3 presentation (November 4)** analyzed July 2024's CrowdStrike outage, identifying:
-- Inadequate testing procedures
-- No offsite/air-gapped backups  
-- Poor change management
-- RTO/RPO not tested
-- Communication breakdown
-
-**Five weeks later**, the Collins Aerospace audit revealed **identical control failures**, validating the theoretical analysis with real-world evidence.
+| **Assignment 3:** BC/DR best practices and testing | **Finding #4:** Recovery capabilities and backup strategy |
 
 ### Academic Rigor & Professional Quality
 
