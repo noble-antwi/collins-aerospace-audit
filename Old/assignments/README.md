@@ -6,10 +6,10 @@ This section contains all major assignments completed throughout the Fall 2025 s
 
 | Assignment | Date | Topic | Deliverable | Status |
 |------------|------|-------|-------------|--------|
-| **Assignment 1** | Sept 17 | Ethics & COBIT | 3,271 words | Complete |
-| **Assignment 2** | Sept 29 | Risk Assessment | 30-page report | Complete |
-| **Assignment 3** | Nov 4 | BC/DR Presentation | 49 slides + delivery | Complete |
-| **Final Project** | Nov 2025 | Collins Aerospace Audit | 40+ pages + presentation | Complete |
+| **Assignment 1** | Sept 17 | Ethics & COBIT | 3,271 words | ✅ Complete |
+| **Assignment 2** | Sept 29 | Risk Assessment | 30-page report | ✅ Complete |
+| **Assignment 3** | Nov 4 | BC/DR Presentation | 49 slides + delivery | ✅ Complete |
+| **Final Project** | Nov 2025 | Collins Aerospace Audit | 40+ pages + presentation | ✅ Complete |
 
 ## Assignment Summaries
 
