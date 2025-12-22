@@ -9,11 +9,12 @@
 
 This assignment involved conducting a comprehensive IT risk assessment of the University ITMM IT Audit's Banner Finance system using NIST SP 800-30 Rev. 1 methodology. The Banner system manages all financial, accounting, HR, and payroll operations for a university serving 15,000 students and hundreds of staff members.
 
-**Full Report:** [Assignment_2_Answer.pdf](<supporting-files/Assignemnt 2 - Answer.pdf>) (30 pages)
+**Full Report:** [Assignment_2_Answer.pdf](<supporting-files/Assignemnt 2 - Answer.pdf>)
 
 ## Assignment Requirements
 
-The assessment followed NIST SP 800-30 Risk Assessment Process (Chapter 3) and completed all 8 required tables:
+The assessment followed NIST SP 800-30 Risk Assessment Process and completed all 8 required tables:
+
 - **Table D-7:** Adversarial Threat Sources
 - **Table D-8:** Non-Adversarial Threat Sources  
 - **Table E-5:** Threat Events (Adversarial and Non-Adversarial)
@@ -28,6 +29,7 @@ The assessment followed NIST SP 800-30 Risk Assessment Process (Chapter 3) and c
 ### Overall Risk Rating: HIGH
 
 The assessment identified 18 distinct risks with the following distribution:
+
 - 3 Very High Risks
 - 7 High Risks
 - 5 Moderate Risks
@@ -44,6 +46,7 @@ The assessment identified 18 distinct risks with the following distribution:
 ### Threat Analysis
 
 **Adversarial Threats (7 identified):**
+
 - External cybercriminal groups
 - Malicious insiders
 - Former employees
@@ -53,6 +56,7 @@ The assessment identified 18 distinct risks with the following distribution:
 - Organized crime
 
 **Non-Adversarial Threats (10 identified):**
+
 - Hurricanes and tropical storms
 - Power grid failures
 - Human error (administrative and user)
@@ -64,16 +68,19 @@ The assessment identified 18 distinct risks with the following distribution:
 ### Three-Tier Risk Assessment Results
 
 **Tier 1 (Organizational):**
+
 - Single point of failure in centralized IT structure
 - No offsite backup strategy
 - Geographic concentration risk (Florida coast)
 
 **Tier 2 (Mission/Business Process):**
+
 - Change management lacks management oversight
 - No formal approval process for production changes
 - Inadequate business continuity planning
 
 **Tier 3 (Information System):**
+
 - Password settings below industry standards
 - Inconsistent user access management
 - Technical vulnerabilities in Banner configuration
@@ -83,6 +90,7 @@ The assessment identified 18 distinct risks with the following distribution:
 ### Risk Assessment Framework
 
 The assessment applied NIST SP 800-30 Rev. 1 three-tier risk management framework:
+
 - **Tier 1:** Organizational-level risks affecting university operations
 - **Tier 2:** Mission/business process risks impacting financial functions
 - **Tier 3:** Information system-level risks within Banner application
@@ -129,25 +137,12 @@ The methodology and skills developed in this assignment directly informed the Co
 
 ## References
 
-- NIST SP 800-30 Rev. 1 (Guide for Conducting Risk Assessments)
+- [NIST SP 800-30 Rev. 1 (Guide for Conducting Risk Assessments)](supporting-files/nistspecialpublication800-30r1-1.pdf)
 - NIST SP 800-53 Rev. 5 (Security and Privacy Controls)
 - COBIT 2019 (Risk Management Domain)
 - FBI IC3 and MS-ISAC threat intelligence
 - Academic research on risk assessment methodologies
 
-## Repository Contents
-
-```
-assignment-02-risk-assessment/
-├── README.md                                    # This file
-└── supporting-files/
-    ├── Assignemnt 2 - Answer.pdf                # Complete 30-page submission
-    ├── Assignment 2 Fall 2025.pdf               # Original assignment instructions
-    ├── Assignment 2 - Template for Tables.docx  # NIST table templates
-    ├── ITMM IT Audit University Case Study.pdf  # Source case study
-    └── nistspecialpublication800-30r11.pdf      # Framework reference
-```
-
 ---
 
-**Note:** The complete 30-page PDF submission contains detailed analysis, all risk tables, documented assumptions, methodology notes, and recommendations. This README provides a high-level summary suitable for portfolio review.
+**Note:** The complete  submission contains detailed analysis, all risk tables, documented assumptions, methodology notes, and recommendations. This README provides a high-level summary.
