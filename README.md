@@ -92,16 +92,19 @@ This repository represents the culmination of a comprehensive semester of IT aud
 
 ### Course Deliverables Timeline
 
-**September 17, 2025:** [Assignment 1 - Ethics & COBIT Enhancement](assignments/assignment-01-ethics/)
+**September 17, 2025:** [Assignment 1 - Ethics & COBIT Enhancement](assignments/assignment-01-ethics-and-COBIT-AI-enahancement/)
+
 - **Part 1:** Arthur Andersen ethical analysis - ISACA/AICPA code violations
 - **Part 2:** COBIT 2019 AI enhancement - 10 objectives across 5 domains
 
-**September 29, 2025:** [Assignment 2 - NIST Risk Assessment](assignments/assignment-02-risk-assessment/) (100 points)  
+**September 29, 2025:** [Assignment 2 - NIST Risk Assessment](assignments/assignment-02-risk-assessment/) 
+
 - University Banner Finance System comprehensive risk assessment (30-page PDF)
 - NIST SP 800-30 three-tier methodology - 18 risks identified (HIGH rating)
 - 8 complete NIST tables - threat sources, vulnerabilities, impacts, risk scenarios
 
-**November 4, 2025:** [Assignment 3 - BC/DR Presentation](assignments/assignment-03-disaster-recovery/) (100 points)
+**November 4, 2025:** [Assignment 3 - BC/DR Presentation](assignments/assignment-03-disaster-recovery/)
+
 - Business Continuity and Disaster Recovery best practices presentation (49 slides)
 - Real-world disaster analysis and lessons learned
 - Industry standards and IT audit guidance for BC/DR programs
@@ -114,7 +117,10 @@ This repository represents the culmination of a comprehensive semester of IT aud
 
 ### Weekly Discussions Integration
 
-Throughout the semester, [12+ weekly discussions](discussions/) (3,600+ words, 50+ citations) reinforced concepts:
+Throughout the semester, [12+ weekly discussions](discussions/) reinforced concepts:
+
+- **Week 1:** Introduction to IT Auditing – Course overview, audit objectives, and the evolving role of IT auditors
+- **Week 2:** The Auditor’s Role – Independence, objectivity, and professional skepticism in IT audit engagements
 - **Week 3:** Professional certifications (CIA, CISA, CPA) and organizations (IIA, AICPA, ISACA)
 - **Week 4:** Enterprise Risk Management terminology and cyber insurance adoption
 - **Week 5:** IT audit integration in SDLC - "part art and part science"
@@ -126,18 +132,20 @@ Throughout the semester, [12+ weekly discussions](discussions/) (3,600+ words, 5
 - **Week 13:** Social engineering - Deepfakes, $25M Arup scam, AI-powered attacks
 - **Week 16:** Course reflection and future learning interests
 
+
 ### Learning Progression Demonstrated
 
-```
-ETHICS & GOVERNANCE (Assignment 1)
-↓ Established principles of auditor independence and framework enhancement
-RISK ASSESSMENT SKILLS (Assignment 2)  
-↓ Developed NIST-based threat modeling and risk quantification
-BC/DR ANALYSIS (Assignment 3)
-↓ Examined disaster response and recovery planning best practices
-COMPREHENSIVE AUDIT (Final Project)
-↓ Applied all concepts to real-world post-incident assessment
-```
+1. **Assignment 1: Ethics & Governance**  
+    - Established principles of auditor independence and framework enhancement
+
+2. **Assignment 2: Risk Assessment Skills**  
+    - Developed NIST-based threat modeling and risk quantification
+
+3. **Assignment 3: BC/DR Analysis**  
+   - Examined disaster response and recovery planning best practices
+
+4. **Final Project: Comprehensive Audit**  
+   -Applied all concepts to real-world post-incident assessment
 
 ### Direct Application - Theory to Practice
 
@@ -150,31 +158,24 @@ COMPREHENSIVE AUDIT (Final Project)
 | **Assignment 2:** NIST SP 800-30 methodology | **Audit Memo:** Three-tier risk assessment framework |
 | **Assignment 3:** BC/DR best practices and testing | **Finding #4:** Recovery capabilities and backup strategy |
 
-### Academic Rigor & Professional Quality
-
-**Total Coursework Documentation:**
-- **23,000+ words** of technical analysis across assignments and discussions
-- **50+ academic and industry sources** properly cited (APA format)
-- **Multiple frameworks applied:** NIST SP 800-30/34/53, COBIT 2019, IEC 62443, ISO 22301, CMMC 2.0
-- **Professional deliverables:** Executive summaries, risk tables, presentations, comprehensive audit reports
-- **Authentic student voice:** Personal reflection integrated with technical rigor
-
 ### Repository Value Proposition
 
 **For Employers:**
+
 - Complete semester progression from theory to practice
 - Real-world audit execution demonstrated (Collins Aerospace)
 - Multiple framework proficiencies (NIST, COBIT, CMMC, SOX)
 - Professional technical writing and presentation skills
-- Team collaboration evidence (partner: Krupa Prakash Panchal)
 
 **For Academic Portfolio:**
+
 - Comprehensive coursework documentation with cross-references
 - Progressive skill development clearly demonstrated  
-- Research and citation rigor (50+ sources)
+- Research and citation rigor
 - Professional presentation and communication skills
 
 **For Professional Development:**
+
 - Knowledge repository for future reference
 - Methodology templates (NIST risk assessment, audit planning)
 - Framework application examples (COBIT enhancement, CMMC analysis)
@@ -187,24 +188,26 @@ COMPREHENSIVE AUDIT (Final Project)
 ### Organization Profile
 
 **Collins Aerospace Systems**
+
 - Formed 2018 (UTC Aerospace + Rockwell Collins merger)
 - Annual Revenue: $28.28 billion (34% of RTX Corporation)
 - Employees: 80,000 globally
 - Critical Infrastructure: MUSE platform serves 170+ airports worldwide
 
-#
 ## Assignment Deliverables - Complete Coursework
 
 This repository contains **ALL coursework** from ITMM 586 - Information Technology Auditing, Fall 2025:
 
 ### Assignment 1: Professional Ethics and Framework Enhancement
 
-#### Part 1: Arthur Andersen Case Study - Ethical Analysis (50 points)
-**Location:** [`assignments/assignment-01-ethics/arthur-andersen-ethical-analysis.md`](assignments/assignment-01-ethics/arthur-andersen-ethical-analysis.md)
+#### Part 1: Arthur Andersen Case Study - Ethical Analysis
 
-**Deliverable:** 650-word critical analysis mapping ethical violations to professional codes
+**Location:** [assignments/assignment-01-ethics-and-COBIT-AI-enahancement/Part-1-assignment-01-ethics/arthur-andersen-ethical-analysis.md](assignments/assignment-01-ethics-and-COBIT-AI-enahancement/Part-1-assignment-01-ethics/arthur-andersen-ethical-analysis.md)
+
+**Deliverable:** Critical analysis mapping ethical violations to professional codes
 
 **Content:**
+
 - Analysis of Arthur Andersen's collapse and ethical failures
 - Violations of ISACA Code of Professional Ethics
 - Violations of AICPA Professional Responsibilities
@@ -220,12 +223,14 @@ This repository contains **ALL coursework** from ITMM 586 - Information Technolo
 ---
 
 #### Part 2: COBIT 2019 Framework Enhancement for AI Era (50 points)
-**Location:** [`assignments/assignment-02-cobit-enhancement/`](assignments/assignment-02-cobit-enhancement/)
+**Location:** [assignments/assignment-01-ethics-and-COBIT-AI-enahancement/Part-2-assignment-01-cobit-enhancement/cobit-ai-enhancement-complete.md](assignments/assignment-01-ethics-and-COBIT-AI-enahancement/Part-2-assignment-01-cobit-enhancement/cobit-ai-enhancement-complete.md)
 
-**Deliverable:** Enhancement proposals for 10 COBIT objectives (100-150 words each)
+**Deliverable:** Enhancement proposals for 10 COBIT objectives
 
 **Content:**
+
 - **EDM Domain:** AI ethics governance, AI risk and opportunity management
+
 - **APO Domain:** AI-driven innovation, AI model risk management  
 - **BAI Domain:** AI solution development, AI models and data assets management
 - **DSS Domain:** AI-augmented operations, AI security and adversarial protection
