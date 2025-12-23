@@ -1,7 +1,6 @@
 # Week 5 Discussion: IT Audit in the Systems Development Life Cycle
 
 **Posted:** September 16, 2025 7:40 AM  
-**Word Count:** 394 words  
 **Topic:** What is the benefit of having an IT auditor as part of the system implementation team? What role can IT Audit play in various phases of the SDLC? Why is project management "part art and part science"?
 
 ---
@@ -37,23 +36,6 @@ The science gives you the roadmap; the art helps you navigate the detours. Both 
 5. **Science = Methodologies** - Frameworks, tools, processes provide structure
 6. **Art = Adaptation** - Emotional intelligence, negotiation, situational judgment
 7. **Combined approach** - Both science and art required for project success
-
-## Connection to Course Themes
-
-This discussion foreshadows several critical elements:
-
-- **Preventive vs. Detective Controls** - Early auditor involvement = preventive
-- **Change Management** (Week 8) - SDLC controls prevent CrowdStrike-type failures  
-- **Risk Assessment** (Assignment 2) - Auditors identify SDLC risks systematically
-- **Documentation Standards** - Audit trails become evidence in final audit work
-
-## Application to Collins Aerospace Audit
-
-The SDLC concepts directly relate to Collins findings:
-
-- **Finding #2 (Privileged Access)** - Service account authentication should be designed into systems, not added later
-- **Finding #3 (Incident Response)** - Detection and response capabilities should be SDLC requirements
-- **Development rigor** - The audit revealed gaps in system design that could have been caught with proper SDLC audit involvement
 
 ## Frameworks Referenced
 

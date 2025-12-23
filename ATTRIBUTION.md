@@ -3,6 +3,7 @@
 ## Project Authorship
 
 **Primary Authors:**
+
 - Noble Antwi (Lead IT Auditor)
 - Krupa Prakash Panchal (Senior IT Auditor)
 
@@ -24,12 +25,14 @@ This repository represents original work completed as part of graduate coursewor
 ### Assignment Components
 
 **Assignment 1: Arthur Andersen Ethics Analysis**
+
 - Original critical analysis by Noble Antwi
 - 650-word analytical essay
 - Independent research and framework application
 - Submitted: September 18, 2025
 
 **Assignment 2: Audit Planning Memorandum**
+
 - Collaborative work by Noble Antwi and Krupa Prakash Panchal
 - Executive memorandum format
 - Risk assessment and scoping
@@ -92,42 +95,6 @@ This is an academic exercise demonstrating IT audit principles, not an actual as
 
 ---
 
-## Use and Citation
-
-### Academic Use
-
-Students and educators may reference this work with proper citation:
-
-**APA 7th Edition Format:**
-```
-Antwi, N., & Panchal, K. P. (2025). Collins Aerospace IT audit project: Post-incident 
-information security assessment [Academic project]. Illinois Institute of Technology. 
-https://github.com/[username]/collins-aerospace-audit
-```
-
-**IEEE Format:**
-```
-N. Antwi and K. P. Panchal, "Collins Aerospace IT Audit Project: Post-Incident 
-Information Security Assessment," Illinois Institute of Technology, 2025. [Online]. 
-Available: https://github.com/[username]/collins-aerospace-audit
-```
-
-### Adaptation and Reuse
-
-This work is licensed under the MIT License (see LICENSE file). Users may:
-- Reference this structure for their own audit projects
-- Adapt methodologies for different organizations
-- Use as a template for academic assignments
-- Study as an example of comprehensive audit documentation
-
-Users must:
-- Provide appropriate attribution to original authors
-- Maintain the academic disclaimer about hypothetical nature
-- Follow their own institution's academic integrity policies
-- Not misrepresent this as actual work performed for Collins Aerospace
-
----
-
 ## Copyright and Intellectual Property
 
 ### Original Work
@@ -157,11 +124,11 @@ For questions regarding attribution, citation, or use of this work:
 
 **Noble Antwi**  
 Email: nantwi@hawk.iit.edu  
-LinkedIn: [Profile URL]
+LinkedIn: [Profile](https://www.linkedin.com/in/noble-antwi-worlanyo/)
 
 **Krupa Prakash Panchal**  
 Email: kpanchal@hawk.iit.edu  
-LinkedIn: [Profile URL]
+LinkedIn: [Profile](https://www.linkedin.com/in/krupa-panchal0528/)
 
 ---
 

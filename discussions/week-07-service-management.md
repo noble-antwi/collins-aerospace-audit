@@ -1,7 +1,6 @@
 # Week 7 Discussion: Service Management Tools and Problem Management
 
 **Posted:** October 3, 2025 6:36 AM  
-**Word Count:** 367 words  
 **Topic:** Identify common service management tools. Select a service you receive and describe the processes from problem report to resolution. What controls ensure customer satisfaction?
 
 ---
@@ -58,15 +57,6 @@ From an audit perspective, I'd want to verify that these controls aren't just do
 4. **Clear escalation procedures** prevent customer frustration
 5. **Communication controls** keep customers informed throughout process
 6. **Feedback loops** drive continuous improvement
-
-## Connection to Course Themes
-
-This discussion introduces operational controls concepts:
-
-- **Service Level Agreements** appear in Collins audit Finding #5 (Vendor Risk Management)
-- **Escalation procedures** relate to Finding #3 (Incident Response) escalation gaps
-- **Monitoring and metrics** connect to audit testing procedures
-- **Documentation requirements** for audit trails
 
 ## Application to IT Auditing
 

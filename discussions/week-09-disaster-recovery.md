@@ -1,7 +1,7 @@
 # Week 9 Discussion: Disaster Recovery Planning
 
 **Posted:** October 19, 2025 2:59 PM  
-**Word Count:** 386 words  
+
 **Topic:** As Senior IT auditor, what DRP components would you recommend? What is the risk of not having a comprehensive business continuity plan?
 
 ---
@@ -63,48 +63,6 @@ The most insidious risk is complacency - assuming "it won't happen to us" until 
 5. **Financial impact** averages $5,600/minute for large enterprises
 6. **SMB vulnerability** - 40-60% never recover from major data loss
 7. **Compliance requirements** make BCP/DR mandatory, not optional
-
-## Connection to Course Themes
-
-This discussion directly precedes Assignment 3 (BC/DR presentation):
-
-- **CrowdStrike incident** (Week 8) lacked adequate recovery procedures
-- **Assignment 3** analyzes CrowdStrike through BC/DR lens
-- **Collins Aerospace** Finding #4 addresses backup and DR gaps
-- **3-2-1-1-0 rule** becomes specific audit recommendation
-
-## Application to Collins Aerospace Audit
-
-These DRP principles directly inform audit findings:
-
-**Finding #4 (Backup and Disaster Recovery):**
-- No air-gapped backups identified
-- RTO/RPO not formally defined or tested
-- Recovery procedures not documented
-- Annual DR testing not performed
-
-**Cost-Benefit Analysis:**
-- $12,000 annual cloud backup cost
-- versus $5,600/minute downtime cost  
-- ROI achieved after 2.14 minutes of avoided downtime
-
-## Frameworks Referenced
-
-- NIST SP 800-34 (Contingency Planning Guide)
-- ISO 22301 (Business Continuity Management)
-- 3-2-1-1-0 backup strategy
-- RACI matrix methodology
-- Business Impact Analysis (BIA) framework
-
-## Critical Audit Questions
-
-1. Are RTO/RPO formally defined and approved by business?
-2. When was the last full DR test conducted?
-3. Are backups air-gapped and immutable?
-4. Do recovery procedures include detailed runbooks?
-5. Is the BIA updated annually?
-6. Do alternate site arrangements match RTO requirements?
-7. Is DR training provided to all relevant personnel?
 
 ## Reflection
 

@@ -1,4 +1,5 @@
 # Control Testing Procedures
+
 ## Collins Aerospace IT Audit
 
 **Audit Period:** September - November 2025  
@@ -33,6 +34,7 @@
 #### Access Controls
 
 **Authentication Controls:**
+
 - Configuration review of authentication systems
 - User account inventory and access rights analysis
 - Password policy compliance verification

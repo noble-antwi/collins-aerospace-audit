@@ -1,7 +1,6 @@
 # Week 1 Discussion: Course Introduction
 
 **Posted:** August 26, 2025  
-**Word Count:** 358 words  
 **Topic:** Welcome to ITMM 586! Please introduce yourself through this discussion thread.
 
 ---
@@ -20,22 +19,3 @@ I'm looking forward to learning from everyone in this class. I know we all come 
 
 Thanks for reading, and I'm excited to work with you all this semester!
 
----
-
-## Key Learning Objectives
-
-This introductory discussion sets the stage for:
-- Building class community and rapport
-- Understanding diverse professional backgrounds
-- Establishing learning goals and expectations
-- Creating foundation for collaborative learning environment
-
-## Connection to Course Themes
-
-This introduction foreshadows key themes that will emerge throughout the semester:
-- **Risk-based thinking** - Mentioned in context of security incidents
-- **Control failures** - Recognition that many breaches stem from basic issues
-- **Stakeholder communication** - Identified as critical audit skill
-- **Framework application** - COBIT and NIST knowledge seeking practical application
-
-These themes directly connect to later assignments, particularly the Collins Aerospace audit where control failures, risk assessment, and stakeholder communication became central deliverables.

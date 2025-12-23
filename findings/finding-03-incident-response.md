@@ -16,6 +16,7 @@ Collins Aerospace's incident response capabilities are inadequate for an organiz
 ### What We Found (Condition)
 
 **Incident Response Plan Deficiencies:**
+
 - Current IR plan last updated: March 2021 (4+ years old)
 - Plan doesn't address ransomware response procedures
 - Contact information outdated (42% of listed personnel no longer in roles)

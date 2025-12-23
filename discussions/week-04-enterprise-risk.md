@@ -1,7 +1,6 @@
 # Week 4 Discussion: Enterprise Risk Management
 
 **Posted:** September 11, 2025 10:23 AM  
-**Word Count:** 342 words  
 **Topic:** Perform an Internet search on Enterprise Risk Management. What are some terms and terminologies you encounter? Where do you see Cyber Insurance in the context of risk management?
 
 ---
@@ -43,18 +42,10 @@ This research shows that while cyber insurance is becoming more important in ent
 5. **Market growth indicates increasing awareness** with $23B projected by 2026
 6. **SMBs lag behind enterprises** in cyber insurance adoption (40-47% vs 65-76%)
 
-## Connection to Course Themes
-
-This discussion introduces risk concepts that become central to later work:
-
-- **Risk Appetite** informs the Collins Aerospace audit's risk assessment approach
-- **KRIs** relate to the monitoring controls evaluated in Finding #3 (Incident Response)
-- **Cyber Insurance** emerges as a potential risk mitigation recommendation
-- **ERM frameworks** connect to NIST SP 800-30 (Assignment 2) and COBIT 2019 (Assignment 1)
-
 ## Application to IT Auditing
 
 Understanding ERM terminology helps IT auditors:
+
 - Communicate risk findings in business language
 - Align IT controls with organizational risk appetite
 - Develop meaningful KRIs for technology risks
@@ -63,7 +54,7 @@ Understanding ERM terminology helps IT auditors:
 
 The low cyber insurance adoption rate (29%) suggests audit finding: many organizations may be underinsured against cyber risks, creating potential exposure that auditors should address in risk assessments and recommendations.
 
-##References
+## References
 
 - NIST Cybersecurity Framework
 - Insurance Information Institute cyber insurance statistics

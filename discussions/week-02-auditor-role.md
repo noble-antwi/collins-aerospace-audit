@@ -1,8 +1,8 @@
 # Week 2 Discussion: IT Auditor Role in Business Scenarios
 
 **Posted:** September 2, 2025  
-**Word Count:** 387 words  
 **Topic:** In the following scenarios, what assistance could an IT auditor provide?
+
 - One company is merging with another. The information systems from the two companies will be merged. IT staff will be reduced
 - A new system is being developed that will enable customers to view their account status and submit orders via the Internet. The technology used is new to the company
 
@@ -30,25 +30,10 @@ Finally, compliance is critical for customer-facing systems. Depending on what d
 
 ---
 
-## Key Audit Considerations
-
-### Merger Scenario
-1. **Due Diligence Assessment** - Evaluate IT risks before integration
-2. **Access Control Mapping** - Prevent privilege accumulation and orphaned accounts
-3. **Data Migration Testing** - Ensure integrity and completeness
-4. **Change Management Review** - Validate integration procedures
-5. **Knowledge Retention** - Document critical processes before staff reduction
-
-### New System Scenario
-1. **SDLC Integration** - Embed audit in development process
-2. **Security Architecture Review** - Authentication, encryption, access controls
-3. **Capability Assessment** - Evaluate internal expertise gaps
-4. **Compliance Mapping** - PCI-DSS, GDPR, privacy regulations
-5. **Third-Party Risk** - If using new vendors or technologies
-
 ## Connection to Course Learning
 
 This discussion introduces several concepts that will be explored in depth:
+
 - **Risk assessment** in merger/acquisition contexts
 - **SDLC audit involvement** (Week 5 discussion topic)
 - **Access control** evaluation (recurring theme in audit findings)
@@ -56,10 +41,3 @@ This discussion introduces several concepts that will be explored in depth:
 - **Change management** controls (Week 8 CrowdStrike incident)
 
 These scenarios also foreshadow the Collins Aerospace audit, where change management failures and access control weaknesses became critical findings.
-
-## Frameworks Referenced
-- System Development Lifecycle (SDLC)
-- PCI-DSS (Payment Card Industry Data Security Standard)
-- GDPR (General Data Protection Regulation)
-- Change management best practices
-- Merger & acquisition IT due diligence frameworks

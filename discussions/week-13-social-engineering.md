@@ -1,7 +1,6 @@
 # Week 13 Discussion: Social Engineering Attacks
 
 **Posted:** November 16, 2025  
-**Word Count:** 389 words  
 **Topic:** What are some common Social Engineering attacks? Are there emerging trends for this attack vector?
 
 ---
@@ -71,40 +70,6 @@ The human element remains both the weakest link and the most important defense. 
 5. **BEC losses exceed $2.9B annually** (FBI IC3 2024)
 6. **Multi-channel attacks** increase perceived legitimacy
 7. **Technical controls insufficient** - human awareness critical
-
-## Connection to Course Themes
-
-Social engineering analysis connects to multiple audit areas:
-
-- **MFA implementation** (Finding #1) directly counters credential theft
-- **User awareness training** gaps identified in Collins audit
-- **Incident reporting** procedures evaluation (Finding #3)
-- **Vendor impersonation** risks (Finding #5)
-
-## Application to Collins Aerospace Audit
-
-Social engineering considerations influenced audit approach:
-
-**Finding #1 (MFA):**
-- Phishing-resistant MFA essential given phishing prevalence
-- Credentials alone insufficient in modern threat landscape
-
-**Finding #3 (Incident Response):**
-- Employees need clear reporting channels for suspicious activity
-- Detection relies partly on user vigilance
-
-**Awareness Recommendations:**
-- Regular simulated phishing exercises
-- Deepfake awareness training for executives and finance personnel
-- Verification procedures for financial transactions
-
-## Frameworks Referenced
-
-- Verizon 2024 Data Breach Investigations Report
-- FBI IC3 2024 Annual Report
-- CrowdStrike 2025 Global Threat Report
-- Palo Alto Networks Unit 42 Social Engineering Report
-- Adaptivesecurity Arup deepfake case study
 
 ## Reflection
 

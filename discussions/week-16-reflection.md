@@ -1,7 +1,6 @@
 # Week 16 Discussion: Course Reflection and Future Learning
 
 **Posted:** December 4, 2025 2:34 PM  
-**Word Count:** 351 words  
 **Topic:** As we conclude the class, reflect on the topics covered. Which topic(s) would you be interested in learning more about? Why?
 
 ---
@@ -12,19 +11,19 @@ As I reflect on this semester in ITMM 586, several topics stand out as areas whe
 
 ### Areas for Continued Learning
 
-**1. Industrial Control Systems (ICS) Security**
+#### 1. Industrial Control Systems (ICS) Security
 
 The Week 10 discussion on ICS/OT security opened my eyes to a completely different world of IT auditing. Unlike traditional IT systems where confidentiality might be paramount, ICS environments prioritize availability and safety - an audit failure could literally cause physical harm or environmental damage. The Colonial Pipeline and Oldsmar Water Treatment incidents demonstrated that these aren't theoretical concerns.
 
 I'm particularly interested in learning IEC 62443 standards in depth and understanding how to audit air-gapped systems, legacy equipment that can't be patched, and the unique risk assessment methodologies required when physical safety is at stake. Given the increasing convergence of IT and OT environments, this expertise will only become more valuable.
 
-**2. AI and Machine Learning in IT Auditing**
+#### 2. AI and Machine Learning in IT Auditing*
 
 Assignment 1's COBIT enhancement work highlighted how AI is transforming governance frameworks, but I want to explore the practical application side more deeply. How are audit firms using machine learning for anomaly detection in log files? How can natural language processing help analyze policies and contracts? What are the ethical considerations when AI makes audit sampling decisions?
 
 The flip side is also fascinating - how do we audit AI systems themselves? As organizations deploy more AI-driven decision-making, auditors need methodologies to evaluate algorithmic bias, model transparency, and AI governance controls. This feels like uncharted territory that will define the next generation of IT auditing.
 
-**3. Cloud Security and DevSecOps Auditing**
+#### 3. Cloud Security and DevSecOps Auditing
 
 The course touched on cloud concepts, but I realize my understanding of how to audit cloud-native architectures is superficial. Modern organizations use Infrastructure-as-Code, serverless functions, containers, and microservices - none of which fit traditional audit approaches designed for on-premise data centers.
 
@@ -78,7 +77,7 @@ This progression from theory to practice, simple to complex, made the learning j
 
 ## Professional Development Path
 
-```
+```bash
 Current State: CISA candidate, Master's student
 ↓
 Immediate: Complete CISA certification (2026)

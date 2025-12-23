@@ -16,6 +16,7 @@ Collins Aerospace has inadequate multi-factor authentication (MFA) implementatio
 ### What We Found (Condition)
 
 **VPN Access:**
+
 - 89 of 147 VPN accounts (60.5%) lack MFA requirement
 - Legacy VPN infrastructure (Cisco ASA 5500 series, deployed 2018)
 - Management deferred MFA pending infrastructure replacement

@@ -1,7 +1,6 @@
 # Week 10 Discussion: Industrial Control Systems Security
 
 **Posted:** October 26, 2025  
-**Word Count:** 374 words  
 **Topic:** Research OT/ICS cyber threats and security standards. What real-world incidents demonstrate the physical consequences of ICS attacks?
 
 ---
@@ -63,41 +62,6 @@ The stakes are fundamentally higher in ICS auditing. A control failure isn't jus
 5. **Legacy systems** create unique vulnerabilities
 6. **Air-gap myth** - ICS are more connected than commonly believed
 7. **Specialized audit skills** required for OT environments
-
-## Connection to Course Themes
-
-This discussion expands audit scope beyond traditional IT:
-
-- **Risk assessment** must include physical safety consequences
-- **Change management** in ICS requires different approaches than IT
-- **Vendor risk** (Week 7, Finding #5) amplified when vendors have ICS access
-- **Incident response** must coordinate with safety protocols
-
-## Application to Collins Aerospace Audit
-
-While Collins' ransomware attack targeted IT systems, OT/ICS concepts remain relevant:
-
-- Manufacturing environments typically include ICS components
-- Network segmentation between IT and OT networks
-- Contractor/vendor access to operational systems
-- Business continuity planning for manufacturing operations
-
-## Frameworks Referenced
-
-- IEC 62443 (Industrial Automation and Control Systems Security)
-- NIST SP 800-82 (Guide to ICS Security)
-- ISA/IEC 62443 standards series
-- NERC CIP (for electric utilities)
-- Safety Instrumented Systems (SIS) concepts
-
-## Critical Audit Questions
-
-1. Is IT network properly segmented from OT network?
-2. How is remote vendor access to ICS controlled?
-3. What change management procedures exist for ICS updates?
-4. Are safety instrumented systems isolated from business networks?
-5. How are legacy ICS systems secured when patching isn't possible?
-6. What physical access controls protect ICS environments?
 
 ## Reflection
 

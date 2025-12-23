@@ -1,7 +1,6 @@
 # Week 8 Discussion: Configuration Management Gone Wrong
 
 **Posted:** October 6, 2025 11:25 PM  
-**Word Count:** 412 words  
 **Topic:** Identify published reports of operational aspects (software configuration, release, patch management) gone wrong. What was the context? Outcome? Lessons learned?
 
 ---
@@ -68,34 +67,6 @@ This incident really reinforces something we've been discussing all semester: co
 5. **No staged rollout** - All customers updated simultaneously  
 6. **Manual recovery** - Required physical access to affected systems
 7. **Global disruption** - Aviation, healthcare, banking, emergency services impacted
-
-## Connection to Course Themes
-
-This incident becomes a central teaching example:
-
-- **Directly referenced in Assignment 3** (BC/DR presentation on November 4, 2025)
-- **Informs Collins Aerospace findings** on change management and testing
-- **Validates SDLC audit discussion** (Week 5) - testing before production
-- **Demonstrates service management gaps** (Week 7) - incident escalation at scale
-
-## Application to Collins Aerospace Audit
-
-The CrowdStrike incident analysis directly influenced audit findings:
-
-**Finding #3 (Incident Response):**
-- Detection and response time parallels
-- Communication breakdown patterns
-- Escalation procedure inadequacies
-
-**Finding #4 (Backup and Disaster Recovery):**
-- Recovery time objectives not met
-- Manual intervention requirements
-- Business continuity impact assessment
-
-**Finding #5 (Vendor Risk Management):**
-- Third-party update mechanisms
-- Vendor testing requirements
-- Service level agreement enforcement
 
 ## Prescient Analysis
 

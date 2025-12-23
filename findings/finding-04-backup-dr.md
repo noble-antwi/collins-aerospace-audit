@@ -12,6 +12,7 @@
 Collins Aerospace's backup and disaster recovery controls are fundamentally inadequate, as evidenced by the September 2025 ransomware attack which encrypted both production systems AND backup infrastructure, resulting in 6 days of data loss. The organization lacks air-gapped backups, has a 23% backup failure rate, and hasn't tested restoration procedures since November 2022. This creates critical risk to business continuity, violates CMMC Level 3 requirements (NIST SP 800-172 Control 3.14.1e), and represents a SOX material weakness.
 
 **The September Attack Exposed:**
+
 - Ransomware encrypted backup servers along with production systems
 - 6 days of backup data destroyed (September 14-19)
 - Last usable backup: September 14 (5 days before attack)
@@ -24,6 +25,7 @@ Collins Aerospace's backup and disaster recovery controls are fundamentally inad
 ### What We Found (Condition)
 
 **No Air-Gapped or Immutable Backups:**
+
 - All backups accessible via production network
 - Backup storage systems have network connectivity
 - No offline/air-gapped backup copies

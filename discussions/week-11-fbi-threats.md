@@ -1,7 +1,6 @@
 # Week 11 Discussion: FBI Cyber Threat Landscape and Security Audit Tools
 
 **Posted:** November 2, 2025  
-**Word Count:** 361 words  
 **Topic:** What cyber threats are critical to infrastructure as observed by the FBI recently? Identify 3 sources of security audit tools and best practices.
 
 ---
@@ -22,9 +21,10 @@ After reviewing recent FBI cybersecurity advisories and threat intelligence, sev
 
 ### Security Audit Tools and Resources
 
-**1. ISACA IS/IT Audit Programs and Tools**
+#### 1. ISACA IS/IT Audit Programs and Tools
 
 ISACA provides comprehensive audit programs covering various IT domains including security. Their resources include:
+
 - Pre-built audit programs aligned with COBIT framework
 - Control testing procedures and sample test scripts
 - Risk assessment templates
@@ -32,9 +32,10 @@ ISACA provides comprehensive audit programs covering various IT domains includin
 
 What makes ISACA particularly valuable is the alignment with professional certifications (CISA) and ongoing updates to address emerging threats.
 
-**2. SentinelOne Security Audit Tools**
+#### 2. SentinelOne Security Audit Tools
 
 SentinelOne's 2025 guide covers modern security audit toolsets including:
+
 - Vulnerability scanners (Nessus, Qualys, OpenVAS)
 - Configuration assessment tools
 - Log analysis and SIEM platforms
@@ -43,9 +44,10 @@ SentinelOne's 2025 guide covers modern security audit toolsets including:
 
 Their focus on automation and continuous monitoring reflects how security auditing has evolved beyond point-in-time assessments.
 
-**3. UpGuard Cybersecurity Audit Platform**
+#### 3. UpGuard Cybersecurity Audit Platform*
 
 UpGuard offers integrated cybersecurity audit capabilities combining:
+
 - Third-party risk assessment (vendor security ratings)
 - Attack surface monitoring
 - Data leak detection
@@ -57,12 +59,14 @@ Their platform addresses the challenge we discussed in Week 5 about vendor risk 
 ### Integration with Audit Practice
 
 These tools support different audit phases:
+
 - **Planning:** Risk assessment, scope definition, preliminary controls understanding
 - **Fieldwork:** Control testing, vulnerability assessment, log analysis
 - **Reporting:** Evidence documentation, findings tracking, remediation monitoring
 - **Follow-up:** Continuous monitoring, trend analysis, comparative assessment
 
 From the FBI threat landscape, security audits should specifically address:
+
 - Network device configuration and patching
 - Supply chain risk management programs
 - ICS/OT network segmentation and monitoring
@@ -80,34 +84,6 @@ From the FBI threat landscape, security audits should specifically address:
 5. **ISACA resources** align audit programs with COBIT and CISA frameworks
 6. **Modern audit tools** enable continuous monitoring, not just point-in-time assessment
 7. **Vendor risk assessment** requires specialized tools and platforms
-
-## Connection to Course Themes
-
-This discussion bridges threat intelligence and audit execution:
-
-- **Risk assessment** (Assignment 2) must account for nation-state threats
-- **Vendor risk** (Finding #5) requires third-party security assessment tools
-- **Incident response** (Finding #3) must address sophisticated persistent threats
-- **Audit methodology** integrates automated tools with manual testing
-
-## Application to Collins Aerospace Audit
-
-FBI threat landscape directly informed Collins audit planning:
-
-- **Nation-state actors** targeting aerospace/defense contractors
-- **Supply chain** concerns given Collins' vendor ecosystem
-- **Ransomware preparedness** validated by September 2024 incident
-- **Network device security** assessed as part of Finding #1 and #2
-
-## Frameworks and Tools Referenced
-
-- FBI IC3 Annual Report 2024
-- FBI PSA-250820 (Russian infrastructure targeting)
-- CISA/FBI/EPA/DOE joint alerts on OT threats
-- ISACA audit programs
-- SentinelOne security audit tools guide
-- UpGuard third-party risk platform
-- Nessus, Qualys, OpenVAS vulnerability scanners
 
 ## Reflection
 

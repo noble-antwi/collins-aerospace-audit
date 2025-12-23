@@ -178,12 +178,14 @@ Based on preliminary risk assessment and industry analysis, the following areas 
 **Issue:** As a publicly traded company (via RTX), Collins Aerospace must maintain effective IT general controls supporting financial reporting systems.
 
 **Business Impact:**
+
 - Material weakness disclosure requirement
 - Audit opinion qualification
 - Sarbanes-Oxley compliance violations
 - Investor confidence impact
 
 **Audit Focus:**
+
 - Change management controls for financial systems
 - Access controls and segregation of duties
 - Computer operations and backup controls
@@ -196,6 +198,7 @@ Based on preliminary risk assessment and industry analysis, the following areas 
 ### Risk-Based Audit Framework
 
 The audit will follow a risk-based approach utilizing:
+
 - **COBIT 2019** for IT governance assessment
 - **NIST SP 800-53 Rev. 5** for security control evaluation
 - **NIST SP 800-171/172** for CMMC compliance assessment
@@ -204,13 +207,15 @@ The audit will follow a risk-based approach utilizing:
 
 ### Audit Phases
 
-**Phase 1: Planning and Risk Assessment (Weeks 1-2)**
+#### Phase 1: Planning and Risk Assessment (Weeks 1-2)
+
 - Stakeholder interviews (CIO, CISO, CFO, operational leaders)
 - Documentation review (policies, procedures, prior audits)
 - Preliminary risk assessment and scoping refinement
 - Audit program development
 
-**Phase 2: Fieldwork and Testing (Weeks 3-10)**
+#### Phase 2: Fieldwork and Testing (Weeks 3-10)
+
 - IT general controls testing (access, change, operations)
 - Application controls testing (financial systems focus)
 - Cybersecurity controls assessment
@@ -218,7 +223,8 @@ The audit will follow a risk-based approach utilizing:
 - Vendor risk management review
 - CMMC readiness assessment
 
-**Phase 3: Reporting and Follow-up (Weeks 11-12)**
+#### Phase 3: Reporting and Follow-up (Weeks 11-12)
+
 - Finding documentation and validation
 - Management response collection
 - Draft report preparation and review
@@ -228,6 +234,7 @@ The audit will follow a risk-based approach utilizing:
 ### Testing Approach
 
 **Control Testing Methods:**
+
 - Inquiry and interview techniques
 - Documentation and evidence examination
 - Observation of processes and controls
@@ -236,6 +243,7 @@ The audit will follow a risk-based approach utilizing:
 - Penetration testing coordination (where appropriate)
 
 **Sample Selection:**
+
 - Judgmental sampling for high-risk areas
 - Statistical sampling for population-based testing
 - 100% testing for critical controls with limited instances
@@ -251,6 +259,7 @@ The audit will follow a risk-based approach utilizing:
 **Target Completion:** February 20, 2026
 
 **Detailed Schedule:**
+
 - **Weeks 1-2:** Planning and risk assessment
 - **Weeks 3-4:** IT general controls testing
 - **Weeks 5-6:** Application controls and financial systems
@@ -261,16 +270,19 @@ The audit will follow a risk-based approach utilizing:
 ### Resource Requirements
 
 **Internal Audit Team:**
+
 - Lead Auditor (Noble Antwi): 12 weeks @ 40 hours/week = 480 hours
 - Senior Auditor (Krupa Prakash Panchal): 12 weeks @ 40 hours/week = 480 hours
 - Total: 960 hours
 
 **Subject Matter Experts (as needed):**
+
 - ICS/SCADA Security Specialist: 40 hours
 - CMMC Assessor: 40 hours
 - Penetration Testing Team: 80 hours
 
 **Collins Aerospace Support Required:**
+
 - IT leadership time for interviews and walkthroughs
 - System administrator support for evidence gathering
 - Conference room and workspace access
@@ -296,6 +308,7 @@ The audit will follow a risk-based approach utilizing:
 ### Cost-Benefit Analysis
 
 **Potential Loss Prevention:**
+
 - CMMC certification delay: Risk to $2.3B contracts
 - Ransomware incident: $10-50M operational disruption
 - SOX material weakness: Remediation costs $5-15M
@@ -303,6 +316,7 @@ The audit will follow a risk-based approach utilizing:
 
 **Return on Investment:**
 Preventing a single major incident justifies the audit investment multiple times over. Additionally, proactive identification and remediation of control gaps reduces:
+
 - Regulatory examination scope and penalties
 - Insurance premium increases
 - Customer confidence erosion
